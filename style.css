@@ -74,3 +74,8 @@ html body code {
   .soft-bg {
    background-color: rgb(247, 247, 247);
   }
+
+  header img {
+    vertical-align: sub;
+    width: 30px;
+  }
